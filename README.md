@@ -24,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi11898&show_icons=true&locale=en" alt="aditi11898" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi11898&" alt="aditi11898" /></p>
+
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
