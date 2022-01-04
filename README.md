@@ -28,5 +28,9 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@aditi_11898: Due to lack of consistency in my dsa practice. I am going to start with #100DaysOfCode. Will be updating my each day progress. Wish me luck😃😃Day 0/#100DaysOfCode: Going to revise some basic concepts of c/c++ like array, structures, pointers, references and functions.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a5627fd815069061d66ee2c31372158b3f)
+- [@TheQuoteBoook_: Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7d0d7ed931fa78968c8e920ea4f2d899a2db0bd6b79d81c0f9766d36de2c71273128f3bc26588)
+- [@aditi_11898: Is it just me or everyone feel a little nostalgic during Diwali saaf safai..](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a76e7cd61c0c9062d268e9cb147d108b3f)
+- [@aditi_11898: Completed &quot;Create and Manage Cloud Resources: Challenge Lab&quot;! Skill Badge Achieved: Create and Manage Cloud Resources @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a6687add16099a69d468e8c5177d1d8932)
 <!-- TWITTER:END -->
 
