@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@aditi_11898: Day1/#100DaysofCode Revised some of the basic concepts of c/c++. Solved some easy level questions of array.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a56275de16079b69d26ae4c2117b108b3b)
-- [@Saloni_Saxena_: The universe is ready to give you, whatever you ask for. Are you ready to work for it?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebeeeccebb829849e62c9e320ea4f2d899a2db0bd6b79d81c099367d060e5cb167b128b32c06087)
-- [@aditi_11898: Due to lack of consistency in my dsa practice. I am going to start with #100DaysOfCode. Will be updating my each day progress. Wish me luck😃😃Day 0/#100DaysOfCode: Going to revise some basic concepts of c/c++ like array, structures, pointers, references and functions.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a5627fd815069061d66ee2c31372158b3f)
-- [@TheQuoteBoook_: Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b37b7d0d7ed931fa78968c8e920ea4f2d899a2db0bd6b79d81c0f9766d36de2c71273128f3bc26588)
-- [@aditi_11898: Is it just me or everyone feel a little nostalgic during Diwali saaf safai..](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a76e7cd61c0c9062d268e9cb147d108b3f)
+- [@iaakritimalla: Do more of what makes you happy. 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36e75df15079a61d368e4c11272168c3dc46b)
+- [@_iaakritimalla_: Do more of what makes you happy. 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9268dc69e7c21778148239c26580ca)
+- [@iaakritimalla: The world breaks everyone, and afterward, many are strong at the broken places. - Ernest Hemingway](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36e75df15099060d561e6ca117c128932c166)
+- [@_iaakritimalla_: The world breaks everyone, and afterward, many are strong at the broken places. - Ernest Hemingway](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9266d668e1cb1573178c3dc76a85c7)
+- [@Saini01_Disha: Should I do an internship in a skill, I am not an expert of ??Should I wait until I master the skill?Or being a Beginner is alright?Just Curious🤔](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebbefcbb2d625a18f74cfe350b648389c9b2beca36e75df140b9464d361e1c0157916823dcc6a)
 <!-- TWITTER:END -->
 
