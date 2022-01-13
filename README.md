@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@chinchang457: Halfway through @warikoo&#39;s &quot;Do Epic Shit&quot; book and am already so excited about the actions I am taking after learning from it!I want everyone to read this book and so, I am giving &quot;20 COPIES&quot; to random folks who retweet and share this tweet.Let&#39;s get better!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c37bbefc1ea861482d23290ad0cb15d2d9d9d77f2a6627dd810099363d16de6ca127f168333c7)
+- [@Uttupaaji: Who do you trust more online friends or offline friends?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a2ba6f4d2e386108cc974d3e30bb04f76d9da60f3a66278d915069b60d46ce0c7147314)
+- [@kritikatwtss: It becomes addictive once you are able to meet your daily goals.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e142dbbf5cbe9860e929274d4ad0cb15d2d9d9d77f2a6627ddb130b9561d460e4ca1a73168e3dc7)
+- [@Kritika60100499: It becomes addictive once you are able to meet your daily goals.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e342dbbf5cbe9864cd5d73797b646fc132a9c8f2cb6e1757cdb1c0f9767d16ee0c31a7e1c8333c76687c0)
 - [@iaakritimalla: Do more of what makes you happy. 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36e75df15079a61d368e4c11272168c3dc46b)
-- [@_iaakritimalla_: Do more of what makes you happy. 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9268dc69e7c21778148239c26580ca)
-- [@iaakritimalla: The world breaks everyone, and afterward, many are strong at the broken places. - Ernest Hemingway](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36e75df15099060d561e6ca117c128932c166)
-- [@_iaakritimalla_: The world breaks everyone, and afterward, many are strong at the broken places. - Ernest Hemingway](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9266d668e1cb1573178c3dc76a85c7)
-- [@Saini01_Disha: Should I do an internship in a skill, I am not an expert of ??Should I wait until I master the skill?Or being a Beginner is alright?Just Curious🤔](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebbefcbb2d625a18f74cfe350b648389c9b2beca36e75df140b9464d361e1c0157916823dcc6a)
 <!-- TWITTER:END -->
 
