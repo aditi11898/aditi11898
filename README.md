@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@NisthaGupta09: From interning with my dream companies to receiving multiple offers, 2021 was a life-changing year for me.I’ve finally penned down my interview experiences with these companies and my placement journey till now. Link to the article -&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3136a1f5cae3a00f95926697bb50b648389c9b2beca36e75da120e9261dc61e7c61573118b3fcc64)
 - [@SrashtiKasera: Am I the only one running out of people I like?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2db3f2caf68e31849562d5e350b648389c9b2beca36e75dd120f9a67d568e8c31b79148e33cc63)
 - [@missAmbivertttt: Aadhi Linkedin life &#39;Congratulations&#39; and email id likhne mai he chali gayi 🥲🥲](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1236a1f2e3ef8513938375d3f60bb1132a9c8f2cb6e1757cdb1c0e9064d360e1c7117d138c39c46a89c6)
 - [@chinchang457: Halfway through @warikoo&#39;s &quot;Do Epic Shit&quot; book and am already so excited about the actions I am taking after learning from it!I want everyone to read this book and so, I am giving &quot;20 COPIES&quot; to random folks who retweet and share this tweet.Let&#39;s get better!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c37bbefc1ea861482d23290ad0cb15d2d9d9d77f2a6627dd810099363d16de6ca127f168333c7)
 - [@Uttupaaji: Who do you trust more online friends or offline friends?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a2ba6f4d2e386108cc974d3e30bb04f76d9da60f3a66278d915069b60d46ce0c7147314)
-- [@kritikatwtss: It becomes addictive once you are able to meet your daily goals.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e142dbbf5cbe9860e929274d4ad0cb15d2d9d9d77f2a6627ddb130b9561d460e4ca1a73168e3dc7)
 <!-- TWITTER:END -->
 
