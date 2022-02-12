@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Deepalii_28: Snapchat streak ki umar mei leetcode streak bna rhi hu.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b3ab7f1c3ee8e13bad43f88f10ba4482c9bc169f7ab6b7fd91c089a65dd6de4c11473158239)
 - [@Ishansharma7390: I think I open up too much and too quickly with people.Don&#39;t know if that&#39;s good or bad.🤔](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e362cbae0ccf18f1b978b6690b146f5132a9c8f2cb6e1757cdb1c079665d169e7c3107b11833ac26085c4)
 - [@iaakritimalla: One of my favourite click!#bannerghattanationalpark #photography #sheru](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36e75d8170d9662d661e2c6127815833cc762)
 - [@NisthaGupta09: From interning with my dream companies to receiving multiple offers, 2021 was a life-changing year for me.I’ve finally penned down my interview experiences with these companies and my placement journey till now. Link to the article -&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3136a1f5cae3a00f95926697bb50b648389c9b2beca36e75da120e9261dc61e7c61573118b3fcc64)
 - [@khushbooverma_: Of all the letters from @warikoo to his kids, this one hit the hardest.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1437a7f2cae08815938375cae320ea4f2d899a2db0bd6b79d7110a9668d26ee8c51b72168c3fc16a89)
-- [@SrashtiKasera: Am I the only one running out of people I like?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c2db3f2caf68e31849562d5e350b648389c9b2beca36e75dd120f9a67d568e8c31b79148e33cc63)
 <!-- TWITTER:END -->
 
