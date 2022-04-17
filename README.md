@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@diimplegirll: This could be US par mere ghar wale stage pe aake mujhe koot denge](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b36bbecd2ee821d8c946bcbad0cb15d2d9d9d77f2a76b79d914079069d660e9c61a72138933c5)
 - [@iaakritimalla: LAN, WAN, MAN toh CHAIN hi udha rakha hai.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36f7ddf17089561d46ee2ca167e128c39cc6a)
 - [@drishtiispeaks: Actual age - 25Mental age - 16Body age - 65Can anyone relate to me?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b2dbbf2caf68e13969662c6e90cea4f2d899a2db0bd6b79d610099765d761e3ca157a1c8a3ac56482)
 - [@deepikamishrra: Dating is so easy. You just ask someone out and they say no](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b3ab7f1cbe986178c956fd5f01eea4f2d899a2db0bd6b79d616079561d260e0cb1a79128b3ec66282)
 - [@Deepalii_28: Snapchat streak ki umar mei leetcode streak bna rhi hu.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b3ab7f1c3ee8e13bad43f88f10ba4482c9bc169f7ab6b7fd91c089a65dd6de4c11473158239)
-- [@Ishansharma7390: I think I open up too much and too quickly with people.Don&#39;t know if that&#39;s good or bad.🤔](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e362cbae0ccf18f1b978b6690b146f5132a9c8f2cb6e1757cdb1c079665d169e7c3107b11833ac26085c4)
 <!-- TWITTER:END -->
 
