@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@diimplegirll: This could be US par mere ghar wale stage pe aake mujhe koot denge](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b36bbecd2ee821d8c946bcbad0cb15d2d9d9d77f2a76b79d914079069d660e9c61a72138933c5)
-- [@iaakritimalla: LAN, WAN, MAN toh CHAIN hi udha rakha hai.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e163eb3ead0eb931388876bcbe350b648389c9b2beca36f7ddf17089561d46ee2ca167e128c39cc6a)
-- [@drishtiispeaks: Actual age - 25Mental age - 16Body age - 65Can anyone relate to me?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b2dbbf2caf68e13969662c6e90cea4f2d899a2db0bd6b79d610099765d761e3ca157a1c8a3ac56482)
-- [@deepikamishrra: Dating is so easy. You just ask someone out and they say no](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1b3ab7f1cbe986178c956fd5f01eea4f2d899a2db0bd6b79d616079561d260e0cb1a79128b3ec66282)
-- [@Deepalii_28: Snapchat streak ki umar mei leetcode streak bna rhi hu.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b3ab7f1c3ee8e13bad43f88f10ba4482c9bc169f7ab6b7fd91c089a65dd6de4c11473158239)
+- [@Unnati_twts: Hey Twitter! It’s very sad to inform that a girl from our college is missing since 5 pm today! She is not having her phone with her and her parents are waiting in the campus for her. She was wearing black jeans, white long T-shirt since we last seen her.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a36c7cdf130a9465d56be7ca1a791d8f3f)
+- [@TejaswiniGurram: This girl from IGDTUW is missing. Dated 18/04/22. Pl help track her down. @DelhiPolice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b3ab8e0d1f58e148ca172d5f01ea8132a9c8f2cb6e1757cda15099260d66fe7c3167e138239c36285c5)
+- [@ChatureBhole: 99% of my issues can be solved by money 👍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37b3f5d7f082388d896bc2ad0cb15d2d9d9d77f2a76b7bdf11079165d26de5c31b78118a3bc0)
+- [@aditi_11898: “To understand and be understood, those are among life’s greatest gifts, and every interaction is an opportunity to exchange them.”--Maria Popova](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a36f74da160a9169dc6de4c31b791c883c)
+- [@Unnati_twts: I have a HTTP joke but if I POST it here, you will not GET IT!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a36f74dd1d099a69dd6be1c1167e138839)
 <!-- TWITTER:END -->
 
