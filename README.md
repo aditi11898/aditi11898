@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@aditi_11898: WORDS 🤌🤌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a36279d611069661dd6de6c61a78138c33)
 - [@Unnati_twts: If overthinking is an art, then I’m the artist 🙂🥲](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a36d7fdf13089569d16ce3ca107f158239)
 - [@Unnati_twts: Hey Twitter! It’s very sad to inform that a girl from our college is missing since 5 pm today! She is not having her phone with her and her parents are waiting in the campus for her. She was wearing black jeans, white long T-shirt since we last seen her.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a36c7cdf130a9465d56be7ca1a791d8f3f)
 - [@TejaswiniGurram: This girl from IGDTUW is missing. Dated 18/04/22. Pl help track her down. @DelhiPolice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2b3ab8e0d1f58e148ca172d5f01ea8132a9c8f2cb6e1757cda15099260d66fe7c3167e138239c36285c5)
 - [@ChatureBhole: 99% of my issues can be solved by money 👍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37b3f5d7f082388d896bc2ad0cb15d2d9d9d77f2a76b7bdf11079165d26de5c31b78118a3bc0)
-- [@aditi_11898: “To understand and be understood, those are among life’s greatest gifts, and every interaction is an opportunity to exchange them.”--Maria Popova](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a36f74da160a9169dc6de4c31b791c883c)
 <!-- TWITTER:END -->
 
