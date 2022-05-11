@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@gdg_nd: It&#39;s time to meet folks face to face again. We are coming back with our next offline #event Google I/O Extended 2022Do you know someone who can host us? Do share this form with them.Form Link:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183bb5decce6c809918773d2f150f4096bdbdb6df0a46d7ada130f9660d76ee4c5)
 - [@nitropumaa: See you all then 👀Register now:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a6f3cdf29217848728d4f61eb1492ac7df6df1a1687dda17079a60d76de7c3137c138c)
 - [@aditi_11898: It was amazing to talk to you.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06b7cd7120c9567d16fe7c3167914833b)
 - [@AvniUplabdhee: My lifelines at the hostel! Home away from home &lt;3 Cutiess were so happy at the meetup](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e29bce8f7f28b1b87826fc2e750b648389c9b2beca36f7fde15079364dc6ae5cb1573178832cd67)
 - [@CherishSantoshi: Some pictures from the @orkesio meet-up with @gdg_noida Loved interacting with the #community](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37b7f3cbf18f29848873c8f117ac132a9c8f2cb6e1757cda160e9265d26ce7c31572128c3fc06180c4)
-- [@aditi_11898: WORDS 🤌🤌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a36279d611069661dd6de6c61a78138c33)
 <!-- TWITTER:END -->
 
