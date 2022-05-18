@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@aditi_11898: So excited! 😃](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06c7cd615099762d66ce9c21b78108f3b)
+- [@aditi_11898: Women in Tech!✨Couldn&#39;t have asked for a better weekend!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06c7cdf11099466d76ce8ca16721c8e3d)
 - [@nitropumaa: Just few pictures that i have right now, it’s the people who made the event such a blast 🔥Also @debug_mode putting up facts for everyone 🤌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a6f3cdf29217848728d4f61eb1492ac7df6df1a76f7edd140e9166d061e9c5137c108f)
 - [@reskilll: And it&#39;s a wrap!!!Successfully organised the first offline developer meetup - Azure DevDay, an initiative of Reskilll in association with Azure Developer Community. Supported by Microsoft Azure.Spot yourself and tag. We will be happy to share!#Azure #AzureDevDay #DevDay](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3aa1eacbee8b16ca9573c6f60ab61368dddc6df7a06c7ade140b9665d760e2c51379)
 - [@reskilll: A stage filled with four empowered women @shrankhla3 @anishastwt @dbhasin &amp; @niloshima #womenintech #shebuildcode #azuredevday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3aa1eacbee8b16ca9573c6f60ab61368dddc6df7a26f7ed812079562d468e8c41b7d)
-- [@reskilll: Expert speaker Dhananjay Kumar talking about how to be an MVP at #azuredevday #meetup](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3aa1eacbee8b16ca9573c6f60ab61368dddc6df0aa6e7bdd1d099261d16ae4c51b79)
-- [@gdg_nd: It&#39;s time to meet folks face to face again. We are coming back with our next offline #event Google I/O Extended 2022Do you know someone who can host us? Do share this form with them.Form Link:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183bb5decce6c809918773d2f150f4096bdbdb6df0a46d7ada130f9660d76ee4c5)
 <!-- TWITTER:END -->
 
