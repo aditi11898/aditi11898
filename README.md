@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@aditi_11898: Education is free. Degree is expensive !](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0627ad81d0e9067d660e1c01a79178d33)
+- [@aditi_11898: After experiencing heatwaves for over a month now, it&#39;s time to enjoy some rain chills.The drop in temperature is just 🤌🤌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0627bdf160b9a64d36be3c01678168b3b)
+- [@hectorishurt: normalize letting me talk without making any sense](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173ab1f5cdf08e098d9375d3ad0cb15d2d9d9d77f2a76875db12089464d169e8c6137b1d8f3fc5)
+- [@mdjunaidap: Master Frontend Development for Free.Thread: 🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e123bb8f4cce38e1e849628d4f61eb1492ac7df6df1aa697bde160a9163d568e5c2147c1c8e)
 - [@ShwetaKukreja_: I would rather go on a world tour than feed 500 people at my wedding.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c37a5e4d6e3ac0f8e9462cde320ea4f2d899a2db0bd6b78dd130c9364d66be1c41273138338c66581)
-- [@gdg_noida: Hi folks,We are partnering with @atsigncompany for launching The @Opensource Giveaway 1. Submit this form - . Follow @gdg_noida 3. Retweet this tweet100 Eligible entires will get an @opensource t-shirt 🎉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183bb5decced8e1e84c974d3e30bb04f76d9db6af5a76d7fdb1d0d9a68d769e7cb147b15)
-- [@aditi_11898: So excited! 😃](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06c7cd615099762d66ce9c21b78108f3b)
-- [@aditi_11898: Women in Tech!✨Couldn&#39;t have asked for a better weekend!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06c7cdf11099466d76ce8ca16721c8e3d)
-- [@nitropumaa: Just few pictures that i have right now, it’s the people who made the event such a blast 🔥Also @debug_mode putting up facts for everyone 🤌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a6f3cdf29217848728d4f61eb1492ac7df6df1a76f7edd140e9166d061e9c5137c108f)
 <!-- TWITTER:END -->
 
