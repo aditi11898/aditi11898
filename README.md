@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@aditi_11898: What my heart wants is either too expensive or has too many carbs🥹](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06375da110a9265d069e2c3117a148a3a)
 - [@aditi_11898: After a hectic 15 days of offline exam , going to have a proper sleep tonight.🤌✨🤌✨🤌✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0637cd9130b9266dd60e0c71a7914833b)
 - [@nitropumaa: @reskilll is #Hiring!Position open for a Community Growth Intern🙌Reply below if interested. RT for good karma✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a6f3cdf29217848728d4f61eb1492ac7df6df1ab6a7adb1c0a9063dc68e7c3127f1789)
 - [@aditi_11898: Education is free. Degree is expensive !](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0627ad81d0e9067d660e1c01a79178d33)
 - [@aditi_11898: After experiencing heatwaves for over a month now, it&#39;s time to enjoy some rain chills.The drop in temperature is just 🤌🤌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0627bdf160b9a64d36be3c01678168b3b)
-- [@hectorishurt: normalize letting me talk without making any sense](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173ab1f5cdf08e098d9375d3ad0cb15d2d9d9d77f2a76875db12089464d169e8c6137b1d8f3fc5)
 <!-- TWITTER:END -->
 
