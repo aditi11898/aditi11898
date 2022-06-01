@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@GaganGulyani: If you are a programmer, and you lack soft skills, your chances of getting hired will reduce drastically.Start working on it now, it&#39;s way too important than you think.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e383eb5e0ccc592169c8769cead0cb15d2d9d9d77f2a7697dd81d0b9b68d36be3ca147e158c3cc3)
+- [@aditi_11898: Had a great time meeting these amazing people. Thanks @siddharth_hacks and his team for the amazing meet-up. Hope to see you guys soon♥️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a16a7ad81c0e9a66d56ee9c41373168f3b)
+- [@aditi_11898: What I was supposed to make VS what I ended up making. 🤣@hackthisfall#HackThisFall #HTFDelhi #MyOctocat](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a16a79d812099362dc6de2c1127d158a39)
+- [@aditi_11898: In a world full of smart watches be that black rubber band ✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a16a79df1c0b9567d568e8c0107b128b32)
 - [@aditi_11898: What my heart wants is either too expensive or has too many carbs🥹](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a06375da110a9265d069e2c3117a148a3a)
-- [@aditi_11898: After a hectic 15 days of offline exam , going to have a proper sleep tonight.🤌✨🤌✨🤌✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0637cd9130b9266dd60e0c71a7914833b)
-- [@nitropumaa: @reskilll is #Hiring!Position open for a Community Growth Intern🙌Reply below if interested. RT for good karma✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a6f3cdf29217848728d4f61eb1492ac7df6df1ab6a7adb1c0a9063dc68e7c3127f1789)
-- [@aditi_11898: Education is free. Degree is expensive !](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0627ad81d0e9067d660e1c01a79178d33)
-- [@aditi_11898: After experiencing heatwaves for over a month now, it&#39;s time to enjoy some rain chills.The drop in temperature is just 🤌🤌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a0627bdf160b9a64d36be3c01678168b3b)
 <!-- TWITTER:END -->
 
