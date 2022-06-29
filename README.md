@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@KakkadYashraj: Career update: Joining @Google as a Software Engineer next week! Here&#39;s a little something that is not talked about enough, and might help you.🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e343eb9eac3e6be1b968e75c6e850b648389c9b2beca36f79de100f9666d369e8ca1a7e158232c665)
 - [@librarymindset: 100 Books To Read&lpar;thread&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1336b0f3c3f09e178c8863d4e70bea4f2d899a2db0bd6b78db14089062d66be7c71a7f118e39c16789)
 - [@aditi_11898: The world should be scared of the woman who knows her worth and embraces her power 💫](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a66a7bd6120d9760dc6ce8c4127f178e38)
 - [@aditi_11898: From collecting stamps , coins and marbles to collecting black t-shirts we all grew up.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a16e78d915099762d06fe5c4177e108333)
 - [@aditi_11898: To the moon 🚀🌕](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a1687ad6140c9767d16ce9c5167a1c8333)
-- [@GaganGulyani: If you are a programmer, and you lack soft skills, your chances of getting hired will reduce drastically.Start working on it now, it&#39;s way too important than you think.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e383eb5e0ccc592169c8769cead0cb15d2d9d9d77f2a7697dd81d0b9b68d36be3ca147e158c3cc3)
 <!-- TWITTER:END -->
 
