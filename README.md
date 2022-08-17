@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Abdullahioni2: #javascript #100DaysOfCode #100daysofcodechallenge . Here is my solution.... after series of trial](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e3db6f4ceee86128c8969ceb050b648389c9b2beca36f78d6110e9168d368e0cb1779138333c16b)
 - [@aditi_11898: Suddenly realising all the tricks I could have used to make this 2 months summer vacation more productive:&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a66375dc160c9365d460e7c5157b1d8f3f)
 - [@aditi_11898: This is the view from my window since past 20 days. I am going to miss these once I move back to Delhi. 🥲](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a66379d8100a9668d56be6c61478148f3b)
 - [@aditi_11898: This place has always calmed me down!✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a6627adf170d9465dd6de4c1147f14823c)
 - [@vanshi_mittal: Divided by STREAMS United by MEMES 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e093ebcf2caebb8178c9273c6ee50b648389c9b2beca36f79d8100c9b60dc6de0c61772138232c567)
-- [@KakkadYashraj: Career update: Joining @Google as a Software Engineer next week! Here&#39;s a little something that is not talked about enough, and might help you.🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e343eb9eac3e6be1b968e75c6e850b648389c9b2beca36f79de100f9666d369e8ca1a7e158232c665)
 <!-- TWITTER:END -->
 
