@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@aditi_11898: Just because someone carries it well, doesn&#39;t mean it isn&#39;t heavy.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a46d7ad811089567d269e9cb177c148e3d)
 - [@aditi_11898: It is in your moments of decision that your destiny is shaped. -Tony Robbins](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a46f7adc16099a69dc6be1c41179158238)
 - [@gdg_noida: Come on board with us on the 27th of August to jump - start your Cloud Computing career!The event is open to all women &lpar;students and working professionals&rpar; in technology#Google #GoogleCloud #women #womenintech](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183bb5decced8e1e84c974d3e30bb04f76d9db6ef3a06d7ade11099565d068e2c2107c17)
 - [@Abdullahioni2: #javascript #100DaysOfCode #100daysofcodechallenge . Here is my solution.... after series of trial](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e3db6f4ceee86128c8969ceb050b648389c9b2beca36f78d6110e9168d368e0cb1779138333c16b)
 - [@aditi_11898: Suddenly realising all the tricks I could have used to make this 2 months summer vacation more productive:&lpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a66375dc160c9365d460e7c5157b1d8f3f)
-- [@aditi_11898: This is the view from my window since past 20 days. I am going to miss these once I move back to Delhi. 🥲](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a66379d8100a9668d56be6c61478148f3b)
 <!-- TWITTER:END -->
 
