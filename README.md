@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@abdul_salphan: Welcome.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3db6f4cedd941b89966fc6ec50b648389c9b2beca36c7cdf15079160d06ee0c11a7d10823dc561)
-- [@aditi_11898: Yayiee !! Excited.. ✨✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a56378df16069368dd6ee1cb177d128c39)
-- [@FrancescoCiull4: 🐳Why Containerization? a thread &lpar;with Memes&rpar;. ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cda12069068d66de2cb1a7c10833ec36a87c3)
-- [@aditi_11898: Just because someone carries it well, doesn&#39;t mean it isn&#39;t heavy.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a46d7ad811089567d269e9cb177c148e3d)
-- [@aditi_11898: It is in your moments of decision that your destiny is shaped. -Tony Robbins](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a46f7adc16099a69dc6be1c41179158238)
+- [@Kritika60100499: It becomes addictive once you are able to meet your daily goals.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e342dbbf5cbe9864cd5d73797b646fc132a9c8f2cb6e1757cdb1c0f9767d16ee0c31a7e1c8333c76687c0)
+- [@_iaakritimalla_: Do more of what makes you happy. 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9268dc69e7c21778148239c26580ca)
+- [@_iaakritimalla_: The world breaks everyone, and afterward, many are strong at the broken places. - Ernest Hemingway](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9266d668e1cb1573178c3dc76a85c7)
+- [@aditi_11898: Day1/#100DaysofCode Revised some of the basic concepts of c/c++. Solved some easy level questions of array.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a56275de16079b69d26ae4c2117b108b3b)
+- [@aditi_11898: Due to lack of consistency in my dsa practice. I am going to start with #100DaysOfCode. Will be updating my each day progress. Wish me luck😃😃Day 0/#100DaysOfCode: Going to revise some basic concepts of c/c++ like array, structures, pointers, references and functions.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f7a5627fd815069061d66ee2c31372158b3f)
 <!-- TWITTER:END -->
 
