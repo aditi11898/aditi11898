@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@abdul_salphan: Welcome.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3db6f4cedd941b89966fc6ec50b648389c9b2beca36c7cdf15079160d06ee0c11a7d10823dc561)
-- [@aditi_11898: Yayiee !! Excited.. ✨✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a56378df16069368dd6ee1cb177d128c39)
-- [@FrancescoCiull4: 🐳Why Containerization? a thread &lpar;with Memes&rpar;. ↓](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e392db3efc1e794198aa56ed2ee13f1132a9c8f2cb6e1757cda12069068d66de2cb1a7c10833ec36a87c3)
-- [@aditi_11898: Just because someone carries it well, doesn&#39;t mean it isn&#39;t heavy.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a46d7ad811089567d269e9cb177c148e3d)
-- [@aditi_11898: It is in your moments of decision that your destiny is shaped. -Tony Robbins](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5cbddd64bdddf3f88f10ba4482c9bc169f6a46f7adc16099a69dc6be1c41179158238)
+- [@abdul_salphan: Welcome.](https://twitter.com/abdul_salphan/status/1610182056138649602)
+- [@aditi_11898: Yayiee !! Excited.. ✨✨](https://twitter.com/aditi_11898/status/1579502908860956672)
+- [@FrancescoCiull4: 🐳Why Containerization? a thread &lpar;with Memes&rpar;. ↓](https://twitter.com/FrancescoCiull4/status/1569383539874856961)
+- [@aditi_11898: Just because someone carries it well, doesn&#39;t mean it isn&#39;t heavy.](https://twitter.com/aditi_11898/status/1567775767718957056)
+- [@aditi_11898: It is in your moments of decision that your destiny is shaped. -Tony Robbins](https://twitter.com/aditi_11898/status/1565732699930632193)
 <!-- TWITTER:END -->
 
