@@ -29,8 +29,8 @@
 
 <!-- TWITTER:START -->
 - [Welcome.](https://x.com/abdul_salphan/status/1610182056138649602)
-- [Yayiee !! Excited.. ✨✨ https://t.co/Ar3aBpTAog](https://x.com/aditi_11898/status/1579502908860956672)
-- [🐳Why Containerization? a thread &lpar;with Memes&rpar;. ↓ pic.twitter.com/kGfjX3wjUi](https://x.com/FrancescoCiull4/status/1569383539874856961)
+- [Yayiee !! Excited.. ✨✨](https://x.com/aditi_11898/status/1579502908860956672)
+- [🐳Why Containerization? a thread &lpar;with Memes&rpar;. ↓](https://x.com/FrancescoCiull4/status/1569383539874856961)
 - [Just because someone carries it well, doesn&#39;t mean it isn&#39;t heavy.](https://x.com/aditi_11898/status/1567775767718957056)
 - [It is in your moments of decision that your destiny is shaped. -Tony Robbins](https://x.com/aditi_11898/status/1565732699930632193)
 <!-- TWITTER:END -->
