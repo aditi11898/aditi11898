@@ -28,10 +28,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [Welcome.](https://x.com/abdul_salphan/status/1610182056138649602)
-- [Yayiee !! Excited.. ✨✨](https://x.com/aditi_11898/status/1579502908860956672)
-- [🐳Why Containerization? a thread &lpar;with Memes&rpar;. ↓](https://x.com/FrancescoCiull4/status/1569383539874856961)
-- [Just because someone carries it well, doesn&#39;t mean it isn&#39;t heavy.](https://x.com/aditi_11898/status/1567775767718957056)
-- [It is in your moments of decision that your destiny is shaped. -Tony Robbins](https://x.com/aditi_11898/status/1565732699930632193)
+- [Welcome.](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b4890f0b1c1e0c3ebef1cae38955969266d3f70cea0d6fd9de69fba06a78d9150c9b66d161e7c210)
+- [Yayiee !! Excited.. ✨✨](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b48f020a191e4e6eeab89aad940e849272d4ad4ef00b60ddde6afaa26275d914069666d36fe3)
+- [🐳Why Containerization? a thread &lpar;with Memes&rpar;. ↓](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d729993990a1013240c3cbdc2cbf78b16d1c974d3e30bb04f76d9db6efaa1627eda17069b67d160e4c41b7d15)
+- [Just because someone carries it well, doesn&#39;t mean it isn&#39;t heavy.](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b48f020a191e4e6eeab89aad940e849272d4ad4ef00a6edfd96df4a46d7ade1c069667d56de7)
+- [It is in your moments of decision that your destiny is shaped. -Tony Robbins](https://rss.app/articles/cb4e791f6f6d729c0b1a5b4d7299b48f020a191e4e6eeab89aad940e849272d4ad4ef00a6cdfdd6af5ab6374dc14099062d461e2)
 <!-- TWITTER:END -->
 
